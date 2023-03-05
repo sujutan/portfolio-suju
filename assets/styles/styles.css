@@ -527,6 +527,8 @@ header .heroDescription .socialsResume .resumeLink:focus {
 
 .aboutContainer p {
   line-height: 1.5;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 .aboutContainer p span {
   color: #4acaa8;
